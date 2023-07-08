@@ -1,5 +1,11 @@
 # Cloudflare Terraform Provider
 
+## Changelog
+
+- v1.0.3: 이메일 라우팅에 drop 추가 (base: v4.5.0)
+- v1.0.4: 업스트림에서 R2 추가 (base: v4.9.0)
+- v1.0.5: (base: v4.19.0)
+
 ## Quickstarts
 
 - [Getting started with Cloudflare and Terraform](https://developers.cloudflare.com/terraform/installing)
